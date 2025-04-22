@@ -18,3 +18,15 @@
 
 **Backend:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Progress](https://geps.dev/progress/40)
+
+ <img align="right" alt="Minha animação" src="https://raw.githubusercontent.com/AndreyBeserra/portfolio/assets/animation.gif">
+##
+
+<div>
+    <a href="mailto:andreybeserra@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.linkedin.com/in/andrey-beserra-da-rocha-rodrigues-9358b1271" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+</div>
