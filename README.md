@@ -1,5 +1,5 @@
 ## Olá, eu sou Andrey Beserra! 👋
-
+<img align="right" alt="Minha animação" src="https://github.com/user-attachments/assets/c03049df-6eb9-4bed-a5e0-ea63c38e6c3f" width="300">
 - Hoje curso e estudo Redes de Computadores
 - pronomes: Ele/Dele
 
@@ -22,7 +22,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Progress](https://geps.dev/progress/40)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Progress](https://geps.dev/progress/10)
 
-<img align="right" alt="Minha animação" src="https://raw.githubusercontent.com/AndreyBeserra/portfolio/assets/animation.gif" width="300">
+<img align="right" alt="Minha animação" src="https://github.com/user-attachments/assets/c03049df-6eb9-4bed-a5e0-ea63c38e6c3f" width="300">
 
 ## 
 
