@@ -4,7 +4,7 @@
 - pronomes: Ele/Dele
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreyBeserra&show_icons=true&theme=radical&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyBeserra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyBeserra&layout=compact&theme=radical&hide=html,css,shell&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠 Habilidades Técnicas
 
